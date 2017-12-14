@@ -8,4 +8,8 @@ Please note that this was run in as a Jupyter Notebook so some of the comment fo
 
 Also use your own access info for twitter. I sanitized the API keys in this code. 
 
-
+A couple of things I want to improve: 
+  -The way that the strings are being read without stripping may have allowed for a miscounting of exploits used
+  -Categorize TTPs such that if RAT in key: exploit put it under Remote Access Trojan etc
+  -Try to scrape the living google doc so that it will automatically update and feed the map
+    -Maybe do this with twitter feeds from select intel agencies. 
