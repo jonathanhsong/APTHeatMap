@@ -12,8 +12,7 @@
 # https://python-twitter.readthedocs.io/en/latest/
 # 
 # ***Issues may occur if other twitter libraries exist on your machine***
-# 
-# Attached you will find my secret information. I trust the TAs! 
+
 
 # In[1]:
 
